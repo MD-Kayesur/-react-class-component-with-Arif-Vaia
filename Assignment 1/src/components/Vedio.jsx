@@ -1,5 +1,5 @@
 import { Component } from "react";
-import VideoLinks from "../vedio/VideoLinks";
+import VideoLinks from "../vediolinks/VideoLinks";
   
 class Vedio extends Component {
   render() {
